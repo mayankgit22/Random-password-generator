@@ -1,0 +1,38 @@
+#mydiv{text-align: center;
+}
+#myh1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+label{
+    font-size: 1.8rem;
+}
+#myinput{
+    background-color: antiquewhite;
+    font-size: 1.7rem;
+    text-align: center;
+}
+#mybutton{background-color: black;
+    font-size: 1.9em;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+#mybutton:hover{
+background-color: rgb(67, 64, 64);
+}
+#mybutton:active{
+background-color: rgb(139, 139, 139);
+}
+#generatedpassword{
+    text-align: center;
+    font-size: 3em;
+    border: 1px solid black;
+    width: auto;
+    height:3.5em ;
+    justify-content: center;
+    /* align-items: center; */
+    margin: auto;
+    display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+}
